@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello crypto world 👋 @Viktory_Vika94
+![crypto-in-turkey](https://user-images.githubusercontent.com/104851389/204079604-0b4b08da-8821-40d2-9695-dfba806fa36a.jpeg)
 
 <!--
 **Vikaaaa94/Vikaaaa94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![bitkoin](https://user-images.githubusercontent.com/104851389/204079333-35ad5ece-f192-42f5-af23-77fba10f34d4.jpeg)
+
